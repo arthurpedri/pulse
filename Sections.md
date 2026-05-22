@@ -27,6 +27,8 @@
 - Order in Workout
 - Warmup Rest Time
 - Regular Rest Time
+- Low Rep Range
+- High Rep Range
 
 ### Set Table
 
